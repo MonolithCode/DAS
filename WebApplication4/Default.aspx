@@ -11,7 +11,7 @@
     <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
 	<link href = "css/bootstrap.css" rel = "stylesheet">
 	<link href = "css/styles.css" rel = "stylesheet">
-    <link href="css/bootstrap-switch.css" rel="stylesheet" />
+    <link href="css/bootstrap-switch.css" rel="stylesheet" /> 
     <link href="css/highlight.css" rel="stylesheet" />
     <link href="css/iThing.css" rel="stylesheet" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
